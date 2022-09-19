@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://appstew.github.io/csb-38rsqh/static/js/main.cb017767.chunk.js",
+    "main.js.map": "https://appstew.github.io/csb-38rsqh/static/js/main.cb017767.chunk.js.map",
+    "runtime-main.js": "https://appstew.github.io/csb-38rsqh/static/js/runtime-main.644de7c7.js",
+    "runtime-main.js.map": "https://appstew.github.io/csb-38rsqh/static/js/runtime-main.644de7c7.js.map",
+    "static/js/2.7c25b84b.chunk.js": "https://appstew.github.io/csb-38rsqh/static/js/2.7c25b84b.chunk.js",
+    "static/js/2.7c25b84b.chunk.js.map": "https://appstew.github.io/csb-38rsqh/static/js/2.7c25b84b.chunk.js.map",
+    "index.html": "https://appstew.github.io/csb-38rsqh/index.html",
+    "precache-manifest.c4c1e04e8e04ecb147bcaeeee6a3c8f5.js": "https://appstew.github.io/csb-38rsqh/precache-manifest.c4c1e04e8e04ecb147bcaeeee6a3c8f5.js",
+    "service-worker.js": "https://appstew.github.io/csb-38rsqh/service-worker.js",
+    "static/js/2.7c25b84b.chunk.js.LICENSE.txt": "https://appstew.github.io/csb-38rsqh/static/js/2.7c25b84b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.644de7c7.js",
+    "static/js/2.7c25b84b.chunk.js",
+    "static/js/main.cb017767.chunk.js"
+  ]
+}
